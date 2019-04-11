@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="demo_jsp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo_jsp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="demo_jsp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="demo_jsp" />
+        </element>
+      </element>
+      <element id="directory" name="folder">
+        <element id="dir-copy" path="E:/tomcat/webapps" />
+      </element>
+    </root>
+  </artifact>
+</component>
